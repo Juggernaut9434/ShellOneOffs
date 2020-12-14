@@ -4,6 +4,10 @@
 # Scrubs MarchWatch.com for market data
 # using curl, grep, sed and shell syntax
 
+# TODO, remove the html tags from results.txt
+# TODO, make each ticker and attributes on 
+#   a single line for cleaner csv conversion
+
 # Documentation of where fiels are being downloaded
 pwd
 ls
